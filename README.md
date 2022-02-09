@@ -4,7 +4,7 @@ The purpose of this article is to highlight the ability of IBM Cloud Pak for Dat
 
 Due to the complexity of installing Cloudera Data Platform and Cloud Pak for data, it is assumed the reader will already have access to these environments. If not, you can still follow along and get insights into how integration can be accomplished.
 
-## Topics
+## Topicsss
 
 1. [Overview of technologies](#1-overview-of-technologies)
 1. [Architecture overview](#2-architecture-overview)
